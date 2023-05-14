@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MERN stack development skills.**
 
-- 🌱 I recently graduated from **Heriot-watt University Dubai with a BSc. Computer Science (Hons.) Degree**
+- 🌱 I recently graduated from **Heriot-watt University Dubai with a BSc.(Hons.) in Computer Science (Artificial Intelligence) Degree**
 
 - 🤝 I’m looking to improve/work on **Machine Learning, Mobile app development and UI/UX skills in the future.**
 
