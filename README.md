@@ -1,20 +1,28 @@
 <h1 align="center">Hi 👋, I'm Amaan Usmani</h1>
-<h3 align="center">An aspiring Full Stack Developer</h3>
+<h3 align="center">An aspiring Full Stack Developer</h3><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amaanusmani&label=Profile%20views&color=0e75b6&style=flat" alt="amaanusmani" /> </p>
+👋 Hi there! I'm Amaan, a recent graduate from Heriot Watt University Dubai with a BSc (Hons.) in Computer Science (AI).
 
-- 🔭 I’m currently working on **MERN stack development skills.**
+🌟 Passionate about front-end development, I thrive on creating engaging user interfaces and intuitive web experiences. With a strong foundation in HTML, CSS, and JavaScript, I enjoy bringing designs to life and crafting delightful user interactions.
 
-- 🌱 I recently graduated from **Heriot-watt University Dubai with a BSc.(Hons.) in Computer Science (Artificial Intelligence) Degree**
+💻 While my primary focus is front-end development, I'm also actively working on honing my skills as a full-stack developer. I have experience working with the MERN stack and have contributed to a variety of projects that involve building robust web applications.
 
-- 🤝 I’m looking to improve/work on **Machine Learning, Mobile app development and UI/UX skills in the future.**
+🤖 During my university studies, I had the opportunity to explore exciting fields like Machine Learning and Robotics. I worked on several ML projects, developing models for pattern recognition and predictive analysis. Additionally, I was part of a Full Stack app development team project, which further sharpened my collaboration and problem-solving skills.
 
-- 📫 How to reach me **amaanusmani@gmail.com**
+🚀 As I continue my journey, I am eager to expand my knowledge and expertise in full-stack development, leveraging my passion for front-end and integrating it seamlessly with back-end technologies.
+
+🌟 Let's connect and collaborate! Feel free to explore my repositories, projects, and contributions. If you have any questions, ideas, or opportunities, don't hesitate to reach out. I'm always open to new challenges and eager to learn.
+
+✉️ You can reach me at [amaanusmani@gmail.com](mailto:amaanusmani@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/amaanusmani/).
+
+Happy coding! 😄
+
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amaanusmani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amaanusmani" height="30" width="40" /></a>
 <a href="https://instagram.com/amaan_1221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amaan_1221" height="30" width="40" /></a>
+
 </p><hr>
 
 <h3 align="left">Languages and Tools:</h3>
