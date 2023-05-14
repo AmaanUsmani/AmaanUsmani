@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AmaanUsmani/AmaanUsmani/main/ezgif.com-add-text.gif" alt="Banner for profile" width="100%">
+</div>
 <h1 align="center">Hi 👋, I'm Amaan Usmani</h1>
 <h3 align="center">An aspiring Full Stack Developer</h3><br>
 
