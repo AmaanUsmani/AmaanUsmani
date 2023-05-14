@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amaanusmani&label=Profile%20views&color=0e75b6&style=flat" alt="amaanusmani" /> </p>
 
-- 🌱 I’m currently learning **Mobile app development**
+- 🔭 I’m currently working on **MERN stack development skills.**
+
+- 🌱 I recently graduated from **Heriot-watt University Dubai with a BSc. Computer Science (Hons.) Degree**
+
+- 🤝 I’m looking to improve/work on **Machine Learning, Mobile app development and UI/UX skills in the future.**
 
 - 📫 How to reach me **amaanusmani@gmail.com**
 <hr>
