@@ -6,13 +6,11 @@
 
 👋 Hi there! I'm Amaan, a recent graduate from Heriot Watt University Dubai with a BSc (Hons.) in Computer Science (AI).
 
-🌟 Passionate about front-end development, I thrive on creating engaging user interfaces and intuitive web experiences. With a strong foundation in HTML, CSS, and JavaScript, I enjoy bringing designs to life and crafting delightful user interactions.
+🤖 Passionate about the realms of Artificial Intelligence and Machine Learning, I find joy in unraveling complex patterns and developing predictive models. During my university tenure, I delved into various ML projects, honing my skills in pattern recognition and predictive analysis.
 
-💻 While my primary focus is front-end development, I'm also actively working on honing my skills as a full-stack developer. I have experience working with the MERN stack and have contributed to a variety of projects that involve building robust web applications.
+💻 While I initially leaned towards front-end development, my focus has now shifted towards AI and ML. However, my foundation in HTML, CSS, and JavaScript remains strong, allowing me to blend my AI expertise with intuitive user interfaces and engaging web experiences.
 
-🤖 During my university studies, I had the opportunity to explore exciting fields like Machine Learning and Robotics. I worked on several ML projects, developing models for pattern recognition and predictive analysis. Additionally, I was part of a Full Stack app development team project, which further sharpened my collaboration and problem-solving skills.
-
-🚀 As I continue my journey, I am eager to expand my knowledge and expertise in full-stack development, leveraging my passion for front-end and integrating it seamlessly with back-end technologies.
+🚀 As I embark on this AI-driven journey, I'm enthusiastic about integrating cutting-edge technologies into my projects. Whether it's exploring neural networks, natural language processing, or computer vision, I'm eager to delve deeper into the realms of AI and its applications.
 
 🌟 Let's connect and collaborate! Feel free to explore my repositories, projects, and contributions. If you have any questions, ideas, or opportunities, don't hesitate to reach out. I'm always open to new challenges and eager to learn.
 
